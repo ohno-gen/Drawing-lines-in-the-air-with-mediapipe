@@ -16,4 +16,4 @@ python mediapipe_hands.py
 python mediapipe_hands.py --max_num_hands=2
 
 ## Acknowledgments
-このプロジェクトでは、手の検出と追跡にMediaPipeライブラリを使用しています。MediaPipeは、Googleによって開発されたオープンソースライブラリで、コンピュータビジョンや機械学習など、様々なタスクにリアルタイムソリューションを提供しています。詳細については、[MediaPipe website](https://mediapipe.dev/)を参照してください。
+このプロジェクトでは、手の検出と追跡にMediaPipeライブラリを使用しています。MediaPipeは、Googleによって開発されたオープンソースライブラリで、コンピュータビジョンや機械学習など、様々なタスクにリアルタイムソリューションを提供しています。詳細については、[(https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ja))を参照してください。
