@@ -15,8 +15,5 @@ python mediapipe_hands.py
 スクリプトは、コマンドライン引数を使用して構成することができます。たとえば、検出する手の最大数を変更するには、`--max_num_hands`引数を使用します。
 python mediapipe_hands.py --max_num_hands=2
 
-## License
-このプロジェクトは、MIT Licenseの下でライセンスされています。詳細については、`LICENSE`ファイルを参照してください。
-
 ## Acknowledgments
 このプロジェクトでは、手の検出と追跡にMediaPipeライブラリを使用しています。MediaPipeは、Googleによって開発されたオープンソースライブラリで、コンピュータビジョンや機械学習など、様々なタスクにリアルタイムソリューションを提供しています。詳細については、[MediaPipe website](https://mediapipe.dev/)を参照してください。
